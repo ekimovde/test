@@ -9,6 +9,7 @@
     "predeploy": "rm -rf build && npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://ekimovde.github.io/test",
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^2.6.14"
